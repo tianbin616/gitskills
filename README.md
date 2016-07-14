@@ -1,3 +1,5 @@
 # gitskills
 
 sddssdd
+
+echo &echo
