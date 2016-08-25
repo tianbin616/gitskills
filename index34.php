@@ -1,7 +1,9 @@
 <?php
 echo 'hello world';
 
-echo '2';
+echo 'ber';
 
-echo '2';
+echo 'ber';
+
+
 ?>
